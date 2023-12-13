@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 1e78df7fa767ac847a76197711e78b91
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Green Hippo
+    100002: Head
+    100004: Head.001
+    100006: Head.002
+    100008: Head.003
+    100010: //RootNode
+    100012: Lever 1
+    100014: Lever 2
+    100016: Lever 3
+    100018: Lever 4
+    100020: Neck
+    100022: Neck.001
+    100024: Neck.002
+    100026: Neck.003
+    100028: Pink Hippo
+    100030: Red Hipo
+    100032: Trigger
+    100034: Trigger.001
+    100036: Trigger.002
+    100038: Trigger.003
+    100040: Yellow Hippo
+    400000: Green Hippo
+    400002: Head
+    400004: Head.001
+    400006: Head.002
+    400008: Head.003
+    400010: //RootNode
+    400012: Lever 1
+    400014: Lever 2
+    400016: Lever 3
+    400018: Lever 4
+    400020: Neck
+    400022: Neck.001
+    400024: Neck.002
+    400026: Neck.003
+    400028: Pink Hippo
+    400030: Red Hipo
+    400032: Trigger
+    400034: Trigger.001
+    400036: Trigger.002
+    400038: Trigger.003
+    400040: Yellow Hippo
+    2100000: Hungry Hippos 1
+    2100002: Hungry Hippos 7
+    2100004: Hungry Hippos 5
+    2100006: Hungry Hippos 6
+    2100008: Hungry Hippos 4
+    2100010: Hungry Hippos 3
+    2100012: Hungry Hippos 2
+    2300000: Green Hippo
+    2300002: Head
+    2300004: Head.001
+    2300006: Head.002
+    2300008: Head.003
+    2300010: //RootNode
+    2300012: Lever 1
+    2300014: Lever 2
+    2300016: Lever 3
+    2300018: Lever 4
+    2300020: Neck
+    2300022: Neck.001
+    2300024: Neck.002
+    2300026: Neck.003
+    2300028: Pink Hippo
+    2300030: Red Hipo
+    2300032: Trigger
+    2300034: Trigger.001
+    2300036: Trigger.002
+    2300038: Trigger.003
+    2300040: Yellow Hippo
+    3300000: Green Hippo
+    3300002: Head
+    3300004: Head.001
+    3300006: Head.002
+    3300008: Head.003
+    3300010: //RootNode
+    3300012: Lever 1
+    3300014: Lever 2
+    3300016: Lever 3
+    3300018: Lever 4
+    3300020: Neck
+    3300022: Neck.001
+    3300024: Neck.002
+    3300026: Neck.003
+    3300028: Pink Hippo
+    3300030: Red Hipo
+    3300032: Trigger
+    3300034: Trigger.001
+    3300036: Trigger.002
+    3300038: Trigger.003
+    3300040: Yellow Hippo
+    4300000: Hungry Hippos
+    4300002: Lever 4
+    4300004: Lever 3
+    4300006: Lever 2
+    4300008: Lever 1
+    4300010: Pink Hippo
+    4300012: Neck.003
+    4300014: Head.003
+    4300016: Trigger.003
+    4300018: Yellow Hippo
+    4300020: Trigger.002
+    4300022: Neck.002
+    4300024: Head.002
+    4300026: Red Hipo
+    4300028: Neck.001
+    4300030: Head.001
+    4300032: Trigger.001
+    4300034: Green Hippo
+    4300036: Trigger
+    4300038: Neck
+    4300040: Head
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hungry Hippos 1
+    second: {fileID: 2100000, guid: bf1cb308ee0e1dc468a4677fa13f9718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hungry Hippos 2
+    second: {fileID: 2100000, guid: 8e3eb28c3e136054b9c7d0fe0c4512d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hungry Hippos 3
+    second: {fileID: 2100000, guid: a6005edf3a8b832469b779adec92e608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hungry Hippos 4
+    second: {fileID: 2100000, guid: de889d4102fe12a4a8829310e337d284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hungry Hippos 5
+    second: {fileID: 2100000, guid: 5177a4e08f4c4f248870c191d4167d5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hungry Hippos 6
+    second: {fileID: 2100000, guid: 622154b591d3a26479e4d4d013e8e3ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hungry Hippos 7
+    second: {fileID: 2100000, guid: 0b02cc054c7704047ba513788ca23802, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

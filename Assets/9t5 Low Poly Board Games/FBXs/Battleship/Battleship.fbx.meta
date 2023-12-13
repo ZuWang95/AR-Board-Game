@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 2919814c0e37d6e4d8bd8cfad7b7ad8f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Battleship Part 1
+    100004: Battleship Part 2
+    100006: Hit
+    100008: Miss
+    100010: Ship 1
+    100012: Ship 2
+    100014: Ship 3
+    100016: Ship 4
+    100018: Ship 5
+    400000: //RootNode
+    400002: Battleship Part 1
+    400004: Battleship Part 2
+    400006: Hit
+    400008: Miss
+    400010: Ship 1
+    400012: Ship 2
+    400014: Ship 3
+    400016: Ship 4
+    400018: Ship 5
+    2100000: Hit
+    2100002: Miss
+    2100004: Battleship 5
+    2100006: Battleship 3
+    2100008: Battleship 4
+    2100010: Battleship 1
+    2100012: Battleship 2
+    2300000: Battleship Part 1
+    2300002: Battleship Part 2
+    2300004: Hit
+    2300006: Miss
+    2300008: Ship 1
+    2300010: Ship 2
+    2300012: Ship 3
+    2300014: Ship 4
+    2300016: Ship 5
+    3300000: Battleship Part 1
+    3300002: Battleship Part 2
+    3300004: Hit
+    3300006: Miss
+    3300008: Ship 1
+    3300010: Ship 2
+    3300012: Ship 3
+    3300014: Ship 4
+    3300016: Ship 5
+    4300000: Hit
+    4300002: Miss
+    4300004: Ship 5
+    4300006: Ship 4
+    4300008: Ship 3
+    4300010: Ship 2
+    4300012: Ship 1
+    4300014: Battleship Part 2
+    4300016: Battleship Part 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battleship 1
+    second: {fileID: 2100000, guid: 84378a42a2dc63d4ca84fa7f9103051a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battleship 2
+    second: {fileID: 2100000, guid: e56429c5f4276324783e1316b8f24963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battleship 3
+    second: {fileID: 2100000, guid: 7f3e8aa3e87bce04e924a8d64e61bbff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battleship 4
+    second: {fileID: 2100000, guid: 6237871f58be81b4982103c3a5e029c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battleship 5
+    second: {fileID: 2100000, guid: 2aab2c56a7251894fb3496cd83dd6bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hit
+    second: {fileID: 2100000, guid: 7d737027b09b1874a94a2d12d53dd9d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miss
+    second: {fileID: 2100000, guid: b8210218d8ab2ca4cb3788c96bd003c3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 7ef0f351ae96ade4b9f4a627658c1bf7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Lownopoly 1
+    2100002: Lownopoly 2
+    2100004: Lownopoly 3
+    2100006: Lownopoly 5
+    2100008: Lownopoly 4
+    2100010: Lownopoly 10
+    2100012: Lownopoly 9
+    2100014: Lownopoly 6
+    2100016: Lownopoly 7
+    2100018: Lownopoly 8
+    2100020: Lownopoly 12
+    2100022: Lownopoly 11
+    2100024: Lownopoly 13
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Lownopoly
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 1
+    second: {fileID: 2100000, guid: 5a34575f79249fd43bfa5e230fa09dc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 10
+    second: {fileID: 2100000, guid: 005df5fb911402a458721d09648dc908, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 11
+    second: {fileID: 2100000, guid: 74664194032062c47bd7603b20d5be50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 12
+    second: {fileID: 2100000, guid: dc302ddad6afc304589dc1442b568d9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 13
+    second: {fileID: 2100000, guid: d5c16eb16176d994f9ea92d0ddd7f4a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 2
+    second: {fileID: 2100000, guid: 6d58ce26d84dba744a310bc9f55ec4f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 3
+    second: {fileID: 2100000, guid: c7e349ee4d0368e4087216c156aa0f46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 4
+    second: {fileID: 2100000, guid: 7a43b51dc67844444a59b1dcedd6ad14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 5
+    second: {fileID: 2100000, guid: 132e51d88810b38478eb0f071919717e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 6
+    second: {fileID: 2100000, guid: 12fe7dfea92b4c847927dc22c93de78d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 7
+    second: {fileID: 2100000, guid: fa634340fb1f58b4f9059dc7fd3ccde4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 8
+    second: {fileID: 2100000, guid: 90e412ce36e9b4345ab76afd470355e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lownopoly 9
+    second: {fileID: 2100000, guid: 1527293d2a6f0a14ba938c7833c52535, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: e800363baa187ac4091eb8c5cd5e8877
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 0
+    100002: 1
+    100004: 2
+    100006: 3
+    100008: 4
+    100010: 5
+    100012: 6
+    100014: 7
+    100016: 8
+    100018: 9
+    100020: Draw 2
+    100022: Draw 4
+    100024: Reverse
+    100026: Skip
+    100028: Text
+    100030: //RootNode
+    100032: Wild Card
+    400000: 0
+    400002: 1
+    400004: 2
+    400006: 3
+    400008: 4
+    400010: 5
+    400012: 6
+    400014: 7
+    400016: 8
+    400018: 9
+    400020: Draw 2
+    400022: Draw 4
+    400024: Reverse
+    400026: Skip
+    400028: Text
+    400030: //RootNode
+    400032: Wild Card
+    2100000: UGO Card 3
+    2100002: UGO Card 1
+    2100004: UGO Card 2
+    2100006: UGO Card 4
+    2100008: UGO Card 5
+    2100010: UGO Card Red
+    2100012: UGO Card Yellow
+    2100014: UGO Card Blue
+    2100016: UGO Card Green
+    2300000: 0
+    2300002: 1
+    2300004: 2
+    2300006: 3
+    2300008: 4
+    2300010: 5
+    2300012: 6
+    2300014: 7
+    2300016: 8
+    2300018: 9
+    2300020: Draw 2
+    2300022: Draw 4
+    2300024: Reverse
+    2300026: Skip
+    2300028: Text
+    2300030: //RootNode
+    2300032: Wild Card
+    3300000: 0
+    3300002: 1
+    3300004: 2
+    3300006: 3
+    3300008: 4
+    3300010: 5
+    3300012: 6
+    3300014: 7
+    3300016: 8
+    3300018: 9
+    3300020: Draw 2
+    3300022: Draw 4
+    3300024: Reverse
+    3300026: Skip
+    3300028: Text
+    3300030: //RootNode
+    3300032: Wild Card
+    4300000: UGO Card
+    4300002: Wild Card
+    4300004: Reverse
+    4300006: Skip
+    4300008: Draw 2
+    4300010: 0
+    4300012: 9
+    4300014: 8
+    4300016: 7
+    4300018: 6
+    4300020: 5
+    4300022: 4
+    4300024: 3
+    4300026: 2
+    4300028: 1
+    4300030: Text
+    4300032: Draw 4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UGO Card 1
+    second: {fileID: 2100000, guid: e2bdec67b4741a4469cf375003bdf98b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UGO Card 2
+    second: {fileID: 2100000, guid: b3a347cbe4ec90d41aae0381c68fe2df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UGO Card 3
+    second: {fileID: 2100000, guid: d072ac048b7567e4d8c92135f75fd3f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UGO Card 4
+    second: {fileID: 2100000, guid: 09e7c4be571b58244804eaa4c5d0a67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UGO Card 5
+    second: {fileID: 2100000, guid: d0db5c11b8ca9594399a816f14cfe556, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UGO Card Blue
+    second: {fileID: 2100000, guid: 7e8daf763c8fe8448bb290b15b248c0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UGO Card Green
+    second: {fileID: 2100000, guid: 5efc1432cba169d4c9b98ef651432485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UGO Card Red
+    second: {fileID: 2100000, guid: 8db38166aaf72014c8341955e5f26cb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UGO Card Yellow
+    second: {fileID: 2100000, guid: d3126c2f5972ea34496aa0d998dfc8d4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

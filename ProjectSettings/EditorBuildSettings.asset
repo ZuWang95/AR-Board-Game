@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Oculus/VR/Scenes/VirtualKeyboard.unity
+    guid: c9684441ee1da1244a223118fdaa5d13
+  - enabled: 0
+    path: Assets/Scenes/AR_Chess.unity
+    guid: bee42c6da87e33f4e8545d4f733ef926
+  - enabled: 0
+    path: Assets/Scenes/Monopoly.unity
+    guid: 1c7743c959913e44d8aab705597dd7a4
+  - enabled: 0
+    path: Assets/monopoly.unity
+    guid: 5aa1de6ed08e67641a3f027dcbdbb20a
+  - enabled: 0
+    path: Assets/battleship.unity
+    guid: 4d29fb7112a39794695b25d82e26848d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d5ac028117b80f7498d8034a91a91ccd, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 895d4dff0c7d65d4f8de58453416f279, type: 2}

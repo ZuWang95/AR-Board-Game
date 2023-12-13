@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: b5e5928e9ac51dc49b530f59c6443171
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Blue Panel
+    100002: Green Panel
+    100004: Red Panel
+    100006: //RootNode
+    100008: Yellow Panel
+    400000: Blue Panel
+    400002: Green Panel
+    400004: Red Panel
+    400006: //RootNode
+    400008: Yellow Panel
+    2100000: Simon 1
+    2100002: Simon 2
+    2100004: Simon 3
+    2100006: Simon 4
+    2100008: Simon Yellow
+    2100010: Simon Blue
+    2100012: Simon Green
+    2100014: Simon Red
+    2300000: Blue Panel
+    2300002: Green Panel
+    2300004: Red Panel
+    2300006: //RootNode
+    2300008: Yellow Panel
+    3300000: Blue Panel
+    3300002: Green Panel
+    3300004: Red Panel
+    3300006: //RootNode
+    3300008: Yellow Panel
+    4300000: Simon
+    4300002: Yellow Panel
+    4300004: Blue Panel
+    4300006: Green Panel
+    4300008: Red Panel
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon 1
+    second: {fileID: 2100000, guid: 1ad81a0967c708842a7600fa324cab31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon 2
+    second: {fileID: 2100000, guid: 650a067dabf59924780f55e72ee59f2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon 3
+    second: {fileID: 2100000, guid: 526236b86d569754ea884f599725fb1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon 4
+    second: {fileID: 2100000, guid: 1c8dfbad22eddef4aac9be962420894f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon Blue
+    second: {fileID: 2100000, guid: 8ca5a35e297cc1f4d8fefc0e3dabc874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon Green
+    second: {fileID: 2100000, guid: a783250f0168bd34ca400caaebe6852f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon Red
+    second: {fileID: 2100000, guid: abd46a53ccbe4da4a86d386109de846b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon Yellow
+    second: {fileID: 2100000, guid: 2ee11f3b9fc5b1242b5fec3580c43208, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
